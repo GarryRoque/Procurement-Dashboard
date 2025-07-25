@@ -27,3 +27,8 @@ Ideal for Procurement Managers, Strategic Sourcing Analysts, and BI professional
 
 ## Author
 Built by Garry Roque Fernandes
+
+## 📸 Dashboard Preview
+
+![Procurement Dashboard Preview](./screenshots/dashboard.png)
+
