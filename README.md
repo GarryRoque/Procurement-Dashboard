@@ -30,5 +30,5 @@ Built by Garry Roque Fernandes
 
 ## 📸 Dashboard Preview
 
-![Procurement Dashboard Preview](./screenshots/dashboard.png)
+![Procurement Dashboard Preview](https://github.com/GarryRoque/Procurement-Dashboard/blob/main/Procurement%20Dashboard%20Snapshot.PNG)
 
